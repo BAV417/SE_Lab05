@@ -12,6 +12,12 @@ c= a+b;
 cout << "a+b = " << c << endl;
 c = a-b;
 cout << "a-b = " << c << endl;
+<<<<<<< HEAD
 c = a*b;
 cout << "a*b = " << c << endl;
+=======
+c = a/b;
+cout << "a/b = " << c << endl;
+
+>>>>>>> division
 }
